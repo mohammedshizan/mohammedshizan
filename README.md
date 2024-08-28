@@ -18,10 +18,9 @@
 ## 👨‍💻 About Me:
 
 - 🎓 I'm currently mastering **Full Stack Development** with a focus on the MERN stack.
-- 🚀 I'm also learning about **DevOps** and **cloud technologies** to better manage and run applications.
-- 🔐 Interested in building **user-friendly solutions** that prioritize privacy and freedom.
+- 🚀 I'm also learning about **Data Analysis** and **cloud technologies** to better manage and run applications.
+- 🔐 Interested in building **user-friendly solutions** that prioritize efficiency.
 - 🎨 Passionate about designing **simple and effective user interfaces**.
-- 🕹️ In my free time, I enjoy **gaming**, watching **anime**, and having fun with **memes**.
 - 🧠 Always **learning and coding**—whether it’s trying out new ideas or understanding how things work.
 
 ## 🛠️ Technologies and Tools:
@@ -32,25 +31,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  
+ 
 </p>
 
 ## 🎮 Hobbies and Interests:
 
-- **Gaming:** An avid gamer who enjoys multiplayer and strategy games.
-- **Anime:** A fan of anime and manga, regularly following the latest series.
-- **Coding:** Passionate about personal projects and open-source contributions.
+- **Learning:** Driven by a thrist for knowledge, I embrace every opportunity to learn and grow.
+- **Coding:** It's my craft, where I turn ideas into reality with creativity.
+- **Cricket:** I find focus, teamwork, and the joy of the game.
 
 ## 🌟 Quote of the Day
 
