@@ -7,12 +7,12 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedshizan&show_icons=true&theme=react&count_private=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedshizan&show_icons=true&theme=react&count_private=true&include_all_commits=false" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedshizan&theme=react&hide_border=false" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-YasirGhaffar&theme=react&layout=compact" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedshizan&theme=react&layout=compact" alt="Top Languages" height="165">
 </div>
 
 ## 👨‍💻 About Me:
