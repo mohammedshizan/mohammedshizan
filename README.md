@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-YasirGhaffar&show_icons=true&theme=react&count_private=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-YasirGhaffar&theme=react&hide_border=false" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed Shizan&show_icons=true&theme=react&count_private=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed Shizan&theme=react&hide_border=false" height="165">
 </div>
 
 <div align="center">
