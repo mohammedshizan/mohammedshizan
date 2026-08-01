@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shizan👋</h1>
-<h2 align="center"> Software Engineer | MERN Stack Developer 💻</h2>
+<h2 align="center"> Software Engineer | Java Developer 💻</h2>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/mohammed-shizan-87111b26a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
