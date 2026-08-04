@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 I'm currently mastering **Full Stack Development** with a focus on the MERN stack.
+- 🎓 I'm currently mastering **Full Stack Development** with a focus on the Java.
 - 🚀 I'm also learning about **Data Analysis** and **cloud technologies** to better manage and run applications.
 - 🔐 Interested in building **user-friendly solutions** that prioritize efficiency.
 - 🎨 Passionate about designing **simple and effective user interfaces**.
